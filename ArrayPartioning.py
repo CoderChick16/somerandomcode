@@ -1,4 +1,3 @@
-
 def arrayPartition(a):
     p_arr = []
     for i in a:
